@@ -1,0 +1,23 @@
+{
+  "name": "ml-sdk",
+  "version": "0.0.1",
+  "description": "MercadoLibre's NodeJS SDK",
+  "author": "@pazguille",
+  "main": "index.js",
+  "dependencies": {
+     "request": "x.x.x"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pazguille/mercadolibre-node-sdk.git"
+  },
+  "keywords": [
+    "mercadolibre",
+    "api",
+    "sdk"
+  ],
+  "license": "MIT",
+  "engine": "node >= 0.8.6"
+}

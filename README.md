@@ -1,4 +1,1 @@
-mercadolibre-node-sdk
-=====================
-
-MercadoLibre's NodeJS SDK
+# MercadoLibre's NodeJS SDK
