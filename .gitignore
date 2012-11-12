@@ -3,7 +3,6 @@
 .cache
 .project
 .settings
-nbproject
 thumb.db
 node_modules
 npm-debug.log
